@@ -1,0 +1,7788 @@
+[
+    {
+    "productId": 21,
+    "product": "30 x 40 Navi-Lite (Gable)",
+    "price": 650,
+    "size": 1200,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x45Gable.jpg?alt=media&token=321c9170-0967-46cd-b0b1-8724bca113c1",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x40, gable, 30x40 gable, 30x40 navi, 30x40 navi-lite, 30 x 40 navi lite, 30 x 40 gable"
+  },
+  {
+    "productId": 25,
+    "product": "30 x 50 Navi-Lite (Gable)",
+    "price": 650,
+    "size": 1500,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x50_Navi.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+  
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 10' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x50, gable, 30x50 gable, 30x50 navi, 30x50 navi-lite, 30 x 50 navi lite, 30 x 50 gable"
+  },
+  {
+    "productId": 600,
+    "product": "8 x 16 Stage",
+    "price": 240,
+    "size": 128,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F8x16Stage.jpg?alt=media&token=91005366-b705-4dba-935e-43430cc660d5",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x16.png",
+    "parts": [
+      {
+        "quantity": "4",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "8x16 stage, 8x16, stage, Stage"
+  },
+  {
+    "productId": 165,
+    "product": "16 x 16 Stage",
+    "price": 480,
+    "size": 256,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F16x16Stage.jpg?alt=media&token=9a6001c1-3468-4d99-988c-f2ab6cfce52a",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x16.png",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "16x16 stage, 16x16, stage, Stage"
+  },
+  {
+    "productId": 65,
+    "product": "48\" Serpentine Table",
+    "price": 13,
+    "stockQuantity": 25,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "48\" Serpentine Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.banquettablespro.com/images/stories/virtuemart/product/serpentine-eco.jpg",
+    "tags": "serpentine"
+  },
+  {
+    "productId": 20,
+    "product": "30 x 40 Navi-Lite (Hip)",
+    "price": 650,
+    "size": 1200,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_3842.jpg?alt=media&token=3849366a-361d-4b08-9735-7fc48049dc2c",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Navi Ratchets",
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x40, hip, 30x40 hip, 30x40 navi, 30x40 navi-lite, 30 x 40 navi lite"
+  },
+  {
+    "productId": 78,
+    "product": "50 x 100 Navi-Trac (Gable)",
+    "price": 3500,
+    "size": 5000,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F50WideGableSchematic.png?alt=media&token=a275ce2f-bdab-40bc-8ece-6c18fce3cb3f",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Gable Leg Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Upright Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "15",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "50' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "50' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "26",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "50x100, gable, 50x100 gable, 50x100 navi, 50x100 navi, 50 x 100 navi"
+  },
+  {
+    "productId": 27,
+    "product": "30 x 60 Navi-Lite (Gable)",
+    "price": 1300,
+    "size": 1800,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x60_gable.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x60, gable, 30x60 gable, 30x60 navi, 30x60 navi-lite, 30 x 60 navi lite, 30 x 60 gable"
+  },
+  {
+    "productId": 69,
+    "product": "Gold Chiavari Chair",
+    "price": 6,
+    "stockQuantity": 250,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Gold Chiavari Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://chiavarisales.com/wp-content/uploads/2017/12/Chair-Chiavari-Wood-Gold-1-2.jpg",
+    "tags": "gold chair, chiavari chair, gold chiavari chair"
+  },
+  {
+    "productId": 170,
+    "product": "Gray Ballroom Chair",
+    "price": 6,
+    "stockQuantity": 230,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Gray Ballroom Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://149361773.v2.pressablecdn.com/wp-content/uploads/2017/07/BANQUET-CHAIR-1.jpg",
+    "tags": "gray chair, ballroom chair, gray ballroom chair"
+  },
+  {
+    "productId": 142,
+    "product": "60\" Round Table",
+    "price": 11,
+    "stockQuantity": 185,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "60\" Round Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.eventstable.com/media/catalog/product/6/0/60-inch-round-plywood-folding-table-5.jpg",
+    "tags": "60 inch, 60 inch round, 60 inch round table"
+  },
+  {
+    "productId": 48,
+    "product": "10 x 10 Festival",
+    "price": 120,
+    "size": 100,
+    "stockQuantity": 55,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x10.png",
+    "parts": [
+      {
+        "quantity": "4",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Top",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x10"
+  },
+  {
+    "productId": 5,
+    "product": "30 x 60 Century",
+    "price": 1260,
+    "size": 1800,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x60Cent.jpg?alt=media&token=978ae786-ba48-4678-8292-bf141f4551c7",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "24",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "27",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x60, century, 30 x 60, 30x60 century, 30 x 60 century, Century"
+  },
+  {
+    "productId": 0,
+    "product": "20 x 20 Century",
+    "price": 260,
+    "size": 400,
+    "stockQuantity": 6,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_1620.jpg?alt=media&token=3ebfe201-3374-4ddf-9e34-b4fd66ec3bbe",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F20WideCenturyDiagram.png?alt=media&token=2a4bc43b-f7ac-4b82-b8b1-9b665483aa32",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "15' Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "20x20, 20 x 20, century, Century, 20x20 century, 20 x 20 century"
+  },
+  {
+    "productId": 3,
+    "product": "30 x 30 Century",
+    "price": 630,
+    "size": 900,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_0148.jpg?alt=media&token=7a91e1e4-065a-4432-a5a8-7a7135078730",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "18' Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Dumbbell",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Pole Horse",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "17",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x30, century, 30 x 30, 30x30 century"
+  },
+  {
+    "productId": 106,
+    "product": "Celebrant Chair",
+    "price": 99,
+    "stockQuantity": 1,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Celebrant Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://cdn11.bigcommerce.com/s-4c6eg5d3xf/images/stencil/500x659/products/21262/24584/n24388-mj4805-celebrant-chair-2__23831.1669751357.jpg?c=1",
+    "tags": "throne"
+  },
+  {
+    "productId": 40,
+    "product": "40 x 80 Navi-Trac (Hip)",
+    "price": 2800,
+    "size": 3200,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x80_hip.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x80, hip, 40x80 hip, 40x80 navi, 40x80 navi, 40 x 80 navi"
+  },
+  {
+    "productId": 4,
+    "product": "30 x 45 Century",
+    "price": 945,
+    "size": 1350,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x45_century.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "20",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Pole Horse",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x45, century, 30 x 45, 30x45 century, 30 x 45 century, Century"
+  },
+  {
+    "productId": 38,
+    "product": "40 x 60 Navi-Trac (Hip)",
+    "price": 2100,
+    "size": 2400,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x60Hip.jpg?alt=media&token=e59cdf5c-1a69-42ae-980c-9f5d6293e4d2",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x60, hip, 40x60 hip, 40x60 navi, 40x60 navi, 40 x 60 navi"
+  },
+  {
+    "productId": 61,
+    "product": "White Vienna Resin Chair",
+    "price": 2.6,
+    "stockQuantity": 80,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "White Vienna Resin Chairs",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://bakerpartyrentals.com/assets/product-images/big/white%20vienna%20cafe%20chair-0.jpg",
+    "tags": "white chair, resin chair, white resin chair, vienna chair, white vienna chair"
+  },
+  {
+    "productId": 64,
+    "product": "Silver Chiavari Chair",
+    "price": 6,
+    "stockQuantity": 220,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Silver Chiavari Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://chiavarisales.com/wp-content/uploads/2015/06/Chair-Chiavari-Wood-Silver-1.jpg",
+    "tags": "silver chair, chiavari chair, silver chiavari chair"
+  },
+  {
+    "productId": 12,
+    "product": "40 x 100 Century",
+    "price": 3000,
+    "size": 4000,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_4384.jpg?alt=media&token=a3fa3d3f-a171-4906-94ae-db74e3fa9756",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "28",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "36",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x100, century, 40 x 100, 40x100 century, 40 x 100 century, Century"
+  },
+  {
+    "productId": 18,
+    "product": "30 x 30 Navi-Lite (Hip)",
+    "price": 650,
+    "size": 900,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x30Hip.jpg?alt=media&token=661e5dd5-3a7f-478e-89eb-224248a664a0",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Cross Brace",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x30, hip, 30x30 hip, 30x30 navi, 30x30 navi-lite, 30 x 30 navi lite"
+  },
+  {
+    "productId": 19,
+    "product": "30 x 30 Navi-Lite (Gable)",
+    "price": 650,
+    "size": 900,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x30_gable.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "6",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x30, gable, 30x30 gable, 30x30 navi, 30x30 navi-lite, 30 x 30 navi lite, 30 x 30 gable"
+  },
+  {
+    "productId": 169,
+    "product": "20 x 32 Stage",
+    "price": 1200,
+    "size": 640,
+    "stockQuantity": 6,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F20x32Stage.jpg?alt=media&token=7c84fc96-eedb-4071-b08f-fa41acbed881",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/20x32.png",
+    "parts": [
+      {
+        "quantity": "20",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Quad Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "20x32 stage, 20x32, stage, Stage"
+  },
+  {
+    "productId": 77,
+    "product": "50 x 80 Navi-Trac (Gable)",
+    "price": 3500,
+    "size": 4000,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F50WideGableSchematic.png?alt=media&token=a275ce2f-bdab-40bc-8ece-6c18fce3cb3f",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Gable Leg Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Upright Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "50' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "50' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "50x80, gable, 50x80 gable, 50x80 navi, 50x80 navi, 50 x 80 navi"
+  },
+  {
+    "productId": 74,
+    "product": "40 x 120 Pole Tent",
+    "price": 3200,
+    "size": 4400,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x120Pole.png",
+    "parts": [
+      {
+        "quantity": "48",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "48",
+        "item": "*Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x120 pole tent, 40 x 120, 40x120, 40 x 120 pole tent, Pole Tent"
+  },
+  {
+    "productId": 173,
+    "product": "White Wicker Chair",
+    "price": 35,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Chairs",
+    "image": "https://www.orlandopartyexpress.com/cdn/shop/products/whitewickerchair_600x.jpg?v=1678252190",
+    "tags": "white wicker chair"
+  },
+  {
+    "productId": 9,
+    "product": "40 x 40 Century",
+    "price": 1600,
+    "size": 1600,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x40.jpg?alt=media&token=b5fa7c51-ad59-4963-a099-85c384e991c7",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Dumbbell",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "17",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x40, century, 40 x 40, 40x40 century, 40 x 40 century, Century"
+  },
+  {
+    "productId": 10,
+    "product": "40 x 60 Century",
+    "price": 1800,
+    "size": 2400,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x60Cent.jpg?alt=media&token=9bb035ff-d440-4069-a8c8-d9cfae17d939",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "20",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "28",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "21",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x60, century, 40 x 60, 40x60 century, 40 x 60 century, Century"
+  },
+  {
+    "productId": 39,
+    "product": "40 x 60 Navi-Trac (Gable)",
+    "price": 2100,
+    "size": 2400,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x60Gable.jpg?alt=media&token=2623931d-0ba4-46c4-bfbf-b07424a05446",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideGableSchematic.png?alt=media&token=084aa2e8-806b-4f62-b231-1040c1a6a440",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x60, gable, 40x60 gable, 40x60 navi, 40x60 navi, 40 x 60 navi"
+  },
+  {
+    "productId": 1,
+    "product": "20 x 30 Century",
+    "price": 390,
+    "size": 600,
+    "stockQuantity": 10,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_1218.jpg?alt=media&token=6b8bc219-d6e4-4011-94a4-9a3460e48998",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F20WideCenturyDiagram.png?alt=media&token=2a4bc43b-f7ac-4b82-b8b1-9b665483aa32",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "20x30, 20 x 30, century, 20x30 century, 20 x 30 century"
+  },
+  {
+    "productId": 67,
+    "product": "16 x 24 Stage",
+    "price": 720,
+    "size": 384,
+    "stockQuantity": 6,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F16x24Stage.jpg?alt=media&token=835bb6f3-07d5-455c-9b6e-fdf6fd787f74",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x24.png",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "16x24 stage, 16x24, stage, Stage"
+  },
+  {
+    "productId": 73,
+    "product": "40 x 100 Pole Tent",
+    "price": 2800,
+    "size": 4000,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x100Pole.png",
+    "parts": [
+      {
+        "quantity": "42",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "28",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "28",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "42",
+        "item": "*Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x100 pole tent, 40 x 100, 40x100, 40 x 100 pole tent, Pole Tent"
+  },
+  {
+    "productId": 41,
+    "product": "40 x 80 Navi-Trac (Gable)",
+    "price": 2800,
+    "size": 3200,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x80Gable.jpg?alt=media&token=1abe71ac-eba1-428f-aef9-76f36c5de905",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideGableSchematic.png?alt=media&token=084aa2e8-806b-4f62-b231-1040c1a6a440",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x80, gable, 40x80 gable, 40x80 navi, 40x80 navi, 40 x 80 navi"
+  },
+  {
+    "productId": 60,
+    "product": "White Alloy Chair",
+    "price": 1.75,
+    "stockQuantity": 450,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "White Alloy Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://premiereeventsonline.com/wp-content/uploads/2016/10/White-alloy-folding-chair.jpg",
+    "tags": "folding chair, white chair, white folding chair, alloy chair, white alloy chair"
+  },
+  {
+    "productId": 176,
+    "product": "White Padded Chair",
+    "price": 3.95,
+    "stockQuantity": 2000,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "White Padded Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://www.227rent.com/wp-content/uploads/nc/c/h/chair_rental_white.jpg",
+    "tags": "white chair, padded chair, white padded chair, white folding chair"
+  },
+  {
+    "productId": 80,
+    "product": "6' Banquet Table",
+    "price": 9.5,
+    "stockQuantity": 60,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "6' Banquet Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.globaleventsupply.com/media/catalog/product/cache/600d7bef3a587ef94cb320396ca34377/6/x/6x30-plywood-folding-banquet-table-5_1.jpg",
+    "tags": "6 foot, 6 foot banquet, 6 foot banquet table"
+  },
+  {
+    "productId": 75,
+    "product": "50 x 40 Navi-Trac (Gable)",
+    "price": 3500,
+    "size": 2000,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F50WideGableSchematic.png?alt=media&token=a275ce2f-bdab-40bc-8ece-6c18fce3cb3f",
+  
+    "parts": [
+      {
+        "quantity": "6",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Gable Leg Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Upright Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "50' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "50' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "50x40, gable, 50x40 gable, 50x40 navi, 50x40 navi, 50 x 40 navi"
+  },
+  {
+    "productId": 76,
+    "product": "50 x 60 Navi-Trac (Gable)",
+    "price": 3500,
+    "size": 3000,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F50WideGableSchematic.png?alt=media&token=a275ce2f-bdab-40bc-8ece-6c18fce3cb3f",
+  
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Gable Leg Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Upright Splices",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "50' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "50' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "50x60, gable, 50x60 gable, 50x60 navi, 50x60 navi, 50 x 60 navi"
+  },
+  {
+    "productId": 70,
+    "product": "40 x 40 Pole Tent",
+    "price": 1600,
+    "size": 1600,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x40Pole.png",
+    "parts": [
+      {
+        "quantity": "24",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "18' Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Dumbbell",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "*Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x40 pole tent, 40 x 40, 40x40, 40 x 40 pole tent, Pole Tent"
+  },
+  {
+    "productId": 58,
+    "product": "8 x 8 Stage",
+    "price": 120,
+    "size": 64,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F8x8Stage.jpg?alt=media&token=75eb6f93-6453-4ba6-b775-7625ac47df7a",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x8.png",
+    "parts": [
+      {
+        "quantity": "2",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "8x8 stage, 8x8, stage, Stage"
+  },
+  {
+    "productId": 16,
+    "product": "60 x 90 Twin Peak",
+    "price": 3510,
+    "size": 5400,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/File_001.jpg?alt=media&token=8bb860b0-351a-4a90-bea6-5f51cacad2b5",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F60WideCenturySchematic.png?alt=media&token=f97d37e1-2c90-4b11-ad76-2189d2781535",
+    "parts": [
+      {
+        "quantity": "30",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "62",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "50",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Stake Plates",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Center Pole Wheels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "60' x 30' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "60' x 30' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "34",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "60x90, century, 60 x 90, 60x90 century, 60 x 90 century, Century, twin peak, 60 x 90 twin peak"
+  },
+  {
+    "productId": 37,
+    "product": "8 x 20 Stage",
+    "price": 300,
+    "size": 160,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F8x20Stage.jpg?alt=media&token=82586951-ae86-4e93-b367-1090972c1f35",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x20.png",
+    "parts": [
+      {
+        "quantity": "5",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "8x20 stage, 8x20, stage, Stage"
+  },
+  {
+    "productId": 15,
+    "product": "60 x 60 Twin Peak",
+    "price": 2340,
+    "size": 3600,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_1248.jpg?alt=media&token=51713549-c3ae-4223-aa20-cf40e33f8ef2",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F60WideCenturySchematic.png?alt=media&token=f97d37e1-2c90-4b11-ad76-2189d2781535",
+    "parts": [
+      {
+        "quantity": "24",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "52",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "44",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Stake Plates",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Center Pole Wheels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "60' x 30' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "26",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "60x60, century, 60 x 60, 60x60 century, 60 x 60 century, Century, twin peak, 60 x 60 twin peak"
+  },
+  {
+    "productId": 52,
+    "product": "10 x 50 Festival",
+    "price": 505,
+    "size": 500,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x50.png",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x50"
+  },
+  {
+    "productId": 43,
+    "product": "40 x 100 Navi-Trac (Gable)",
+    "price": 3500,
+    "size": 4000,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x100Gable.jpg?alt=media&token=90f91f28-c91c-4896-9eb4-d455d67d6a02",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideGableSchematic.png?alt=media&token=084aa2e8-806b-4f62-b231-1040c1a6a440",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "15",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x100, gable, 40x100 gable, 40x100 navi, 40x100 navi, 40 x 100 navi"
+  },
+  {
+    "productId": 8,
+    "product": "30 x 105 Century",
+    "price": 2205,
+    "size": 3150,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x105Century.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "36",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "42",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x105, century, 30 x 105, 30x105 century, 30 x 105 century, Century"
+  },
+  {
+    "productId": 29,
+    "product": "30 x 70 Navi-Lite (Gable)",
+    "price": 1300,
+    "size": 2100,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x60_gable.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x70, gable, 30x70 gable, 30x70 navi, 30x70 navi-lite, 30 x 70 navi lite, 30 x 70 gable"
+  },
+  {
+    "productId": 24,
+    "product": "30 x 50 Navi-Lite (Hip)",
+    "price": 650,
+    "size": 1500,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x50_Navi.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 10' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x50, hip, hip, 30x50 hip, 30x50 navi, 30x50 navi-lite, 30 x 50 navi lite"
+  },
+  {
+    "productId": 42,
+    "product": "40 x 100 Navi-Trac (Hip)",
+    "price": 3500,
+    "size": 4000,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x100_WRLC.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideHipSchematic.webp?alt=media&token=4fd36c5c-3b1f-435d-85dd-278e624c047e",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x100, hip, 40x100 hip, 40x100 navi, 40x100 navi, 40 x 100 navi"
+  },
+  {
+    "productId": 47,
+    "product": "40 x 140 Navi-Trac (Gable)",
+    "price": 4900,
+    "size": 5600,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x140GableAthl.jpg?alt=media&token=a0627138-abec-4052-8ca3-94eab61b9766",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideGableSchematic.png?alt=media&token=084aa2e8-806b-4f62-b231-1040c1a6a440",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "21",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "7",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "28",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x140, gable, 40x140 gable, 40x140 navi, 40x140 navi, 40 x 140 navi"
+  },
+  {
+    "productId": 57,
+    "product": "10 x 100 Festival",
+    "price": 1005,
+    "size": 1000,
+    "stockQuantity": 3,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x100Diag.jpg",
+    "parts": [
+      {
+        "quantity": "22",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "31",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x100"
+  },
+  {
+    "productId": 62,
+    "product": "12 x 16 Stage",
+    "price": 360,
+    "size": 192,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F12x16Stage.webp?alt=media&token=066f065d-e3cc-494c-b53b-44b9ef2017cb",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x16.png",
+    "parts": [
+      {
+        "quantity": "6",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "12x16 stage, 12x16, stage, Stage"
+  },
+  {
+    "productId": 84,
+    "product": "36\" Round Table",
+    "price": 10,
+    "stockQuantity": 65,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "36\" Round Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://collectiveeventgroup.com/wp-content/uploads/2022/01/36inch_diameter_table_rental.jpg",
+    "tags": "36 inch, 36 inch round, 36 inch round table"
+  },
+  {
+    "productId": 85,
+    "product": "60\" Serpentine Table",
+    "price": 15,
+    "stockQuantity": 40,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "60\" Serpentine Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://apresparty.com/assets/product-images/big/TSRP.jpg",
+    "tags": "serpentine"
+  },
+  {
+    "productId": 86,
+    "product": "Fill 'N Chill Table",
+    "price": 8.5,
+    "stockQuantity": 10,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Fill 'N Chill Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.chillinproducts.com/images/virtuemart/product/109.jpg",
+    "tags": "fill n chill"
+  },
+  {
+    "productId": 88,
+    "product": "72\" Round Table",
+    "price": 16,
+    "stockQuantity": 55,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "72\" Round Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.platinumeventrentals.com/wp-content/uploads/2014/10/Table-72inch-round-seats-10-12ppl-11.75.png",
+    "tags": "72 inch, 72 inch round, 72 inch round table"
+  },
+  {
+    "productId": 13,
+    "product": "40 x 120 Century",
+    "price": 2640,
+    "size": 4800,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x120CenturyThumb.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "32",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "40",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "37",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x120, century, 40 x 120, 40x120 century, 40 x 120 century, Century"
+  },
+  {
+    "productId": 50,
+    "product": "10 x 30 Festival",
+    "price": 305,
+    "size": 300,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x30.png",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Mid Top",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x30"
+  },
+  {
+    "productId": 66,
+    "product": "16 x 20 Stage",
+    "price": 600,
+    "size": 320,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F16x20Stage.jpg?alt=media&token=b6411660-08c0-4ecf-aeeb-eb1dbf6e14a2",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x20.png",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "16x20 stage, 16x20, stage, Stage"
+  },
+  {
+    "productId": 87,
+    "product": "24\" Round Table",
+    "price": 10,
+    "stockQuantity": 25,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "24\" Round Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://reventals-production.s3.amazonaws.com/uploads/photo/33662/original/Captura_de_tela_2024-07-11_133925.png",
+    "tags": "24 inch, 24 inch round, 24 inch round table"
+  },
+  {
+    "productId": 14,
+    "product": "40 x 140 Century",
+    "price": 3080,
+    "size": 5600,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x140Cent.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "36",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "44",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "42",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x140, century, 40 x 140, 40x140 century, 40 x 140 century, Century"
+  },
+  {
+    "productId": 33,
+    "product": "30 x 80 Navi-Lite (Gable)",
+    "price": 1945,
+    "size": 2400,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x90Gable.jpg?alt=media&token=be03bde0-40be-4d9a-af17-0c1286ee80c1",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x80, gable, 30x80 gable, 30x80 navi, 30x80 navi-lite, 30 x 80 navi lite, 30 x 80 gable"
+  },
+  {
+    "productId": 49,
+    "product": "10 x 20 Festival",
+    "price": 205,
+    "size": 200,
+    "stockQuantity": 16,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x20.png",
+    "parts": [
+      {
+        "quantity": "6",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "7",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Top",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x20"
+  },
+  {
+    "productId": 172,
+    "product": "48\" Round Table",
+    "price": 10.5,
+    "stockQuantity": 80,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "48\" Round Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://knightspartyrental.com/wp-content/uploads/2021/12/48-Inch-Round-Table-Front-1000.jpg",
+    "tags": "48 inch, 48 inch round, 48 inch round table"
+  },
+  {
+    "productId": 83,
+    "product": "4' Banquet Table",
+    "price": 9.5,
+    "stockQuantity": 25,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "4' Banquet Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.celebrationspartyrentals.com/wp-content/uploads/2015/10/4-ft.-Banquet-Table.jpg",
+    "tags": "4 foot, 4 foot banquet, 4 foot banquet table"
+  },
+  {
+    "productId": 90,
+    "product": "8' Banquet Table",
+    "price": 9.5,
+    "stockQuantity": 250,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "8' Banquet Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://i0.wp.com/chiavarisales.com/wp-content/uploads/2024/05/96x48-Special-Corners_01-scaled.jpg?fit=1054%2C1100&ssl=1",
+    "tags": "8 foot, 8 foot banquet, 8 foot banquet table"
+  },
+  {
+    "productId": 46,
+    "product": "40 x 140 Navi-Trac (Hip)",
+    "price": 4900,
+    "size": 5600,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x140GableAthl.jpg?alt=media&token=a0627138-abec-4052-8ca3-94eab61b9766",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideHipSchematic.webp?alt=media&token=4fd36c5c-3b1f-435d-85dd-278e624c047e",
+    "parts": [
+      {
+        "quantity": "18",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "15",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "26",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x140, hip, 40x140 hip, 40x140 navi, 40x140 navi, 40 x 140 navi"
+  },
+  {
+    "productId": 59,
+    "product": "8 x 12 Stage",
+    "price": 180,
+    "size": 96,
+    "stockQuantity": 8,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F8x12Stage.avif?alt=media&token=95d959d6-638d-4c64-9645-de8ce4145989",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x12.png",
+    "parts": [
+      {
+        "quantity": "3",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "8x12 stage, 8x12, stage, Stage"
+  },
+  {
+    "productId": 53,
+    "product": "10 x 60 Festival",
+    "price": 605,
+    "size": 600,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x60.png",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "19",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x60"
+  },
+  {
+    "productId": 99,
+    "product": "Chiavari Bar Chair",
+    "price": 12,
+    "stockQuantity": 24,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Chiavar Bar Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://www.mahaiwetent.com/wp-content/uploads/2018/12/Fruitwood-Chiavari-Barstool-1.jpg",
+    "tags": "barstool, bar stool, barchair, bar chair, chiavari"
+  },
+  {
+    "productId": 102,
+    "product": "54\" Square Table",
+    "price": 8.5,
+    "stockQuantity": 20,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "54\" Square Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.pleasantonrentals.com/itemimages/3865.jpg",
+    "tags": "square table"
+  },
+  {
+    "productId": 45,
+    "product": "40 x 120 Navi-Trac (Gable)",
+    "price": 4200,
+    "size": 4800,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x120Gable.jpg?alt=media&token=dbdcfab3-cff9-43cb-8526-a700efef1b22",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideGableSchematic.png?alt=media&token=084aa2e8-806b-4f62-b231-1040c1a6a440",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Gable End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' Gable Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "26",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x120, gable, 40x120 gable, 40x120 navi, 40x120 navi, 40 x 120 navi"
+  },
+  {
+    "productId": 7,
+    "product": "30 x 90 Century",
+    "price": 1890,
+    "size": 2700,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x90_century.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "32",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x90, century, 30 x 90, 30x90 century, 30 x 90 century, Century"
+  },
+  {
+    "productId": 36,
+    "product": "40 x 40 Navi-Trac (Hip)",
+    "price": 1400,
+    "size": 1600,
+    "reviews": [],
+    "stockQuantity": 2,
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x40_public-square.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideHipSchematic.webp?alt=media&token=4fd36c5c-3b1f-435d-85dd-278e624c047e",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Cross Brace",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladders",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x40, hip, 40x40 hip, 40x40 navi, 40x40 navi, 40 x 40 navi"
+  },
+  {
+    "productId": 6,
+    "product": "30 x 75 Century",
+    "price": 1575,
+    "size": 2250,
+    "reviews": [],
+    "stockQuantity": 3,
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x75Cent.jpg?alt=media&token=d4e28544-2172-4006-9287-0fc3f4939e8a",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideCenturySchematic.png?alt=media&token=3a0aa634-4a75-49c0-a0da-c49e3bcdc109",
+    "parts": [
+      {
+        "quantity": "28",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x75, century, 30 x 75, 30x75 century, 30 x 75 century, Century"
+  },
+  {
+    "productId": 23,
+    "product": "30 x 45 Navi-Lite (Gable)",
+    "price": 975,
+    "size": 1350,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x45Gable.jpg?alt=media&token=321c9170-0967-46cd-b0b1-8724bca113c1",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "8",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x45, gable, 30x45 gable, 30x45 navi, 30x45 navi-lite, 30 x 45 navi lite, 30 x 45 gable"
+  },
+  {
+    "productId": 32,
+    "product": "30 x 80 Navi-Lite (Hip)",
+    "price": 1945,
+    "size": 2400,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x90_hip.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x80, hip, 30x80 hip, 30x80 navi, 30x80 navi-lite, 30 x 80 navi lite"
+  },
+  {
+    "productId": 56,
+    "product": "10 x 90 Festival",
+    "price": 905,
+    "size": 900,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x90.png",
+    "parts": [
+      {
+        "quantity": "20",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "28",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "9",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "7",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x90"
+  },
+  {
+    "productId": 54,
+    "product": "10 x 70 Festival",
+    "price": 705,
+    "size": 700,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x70.png",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "7",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x70"
+  },
+  {
+    "productId": 72,
+    "product": "40 x 80 Pole Tent",
+    "price": 2400,
+    "size": 3200,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x80Pole.png",
+    "parts": [
+      {
+        "quantity": "36",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "Small Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "24",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "18' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "36",
+        "item": "*Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x80 pole tent, 40 x 80, 40x80, 40 x 80 pole tent, Pole Tent"
+  },
+  {
+    "productId": 55,
+    "product": "10 x 80 Festival",
+    "price": 805,
+    "size": 800,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x80.png",
+    "parts": [
+      {
+        "quantity": "18",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "25",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x80"
+  },
+  {
+    "productId": 68,
+    "product": "Children's Chair",
+    "price": 1.75,
+    "stockQuantity": 45,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Children's Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgKPkiHY77p7VMsgI0ZnC3qpR_5m-4eeShg&s",
+    "tags": "children's chair, child chair"
+  },
+  {
+    "productId": 105,
+    "product": "Black Bar Chair",
+    "price": 12,
+    "stockQuantity": 80,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Black Bar Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://images.affordableseating.net/dpr_1.0,f_auto,q_auto,w_2000,h_2000/afd/media/catalog/product/2/5/254-bs-bl-pb-vnl-bl-vnl-bl-1.png",
+    "tags": "barstool, bar stool, barchair, bar chair"
+  },
+  {
+    "productId": 31,
+    "product": "30 x 75 Navi-Lite (Gable)",
+    "price": 1630,
+    "size": 2250,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x75Gable.jpg?alt=media&token=ac4984bc-8b40-4a9a-81a5-b0ca39b0c271",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x75, gable, 30x75 gable, 30x75 navi, 30x75 navi-lite, 30 x 75 navi lite, 30 x 75 gable"
+  },
+  {
+    "productId": 34,
+    "product": "30 x 90 Navi-Lite (Hip)",
+    "price": 1945,
+    "size": 2700,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x90_hip.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+  
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "20",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x90, hip, 30x90 hip, 30x90 navi, 30x90 navi-lite, 30 x 90 navi lite"
+  },
+  {
+    "productId": 28,
+    "product": "30 x 70 Navi-Lite (Hip)",
+    "price": 1300,
+    "size": 2100,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_1280.jpg?alt=media&token=edd88a3d-46e5-4ec9-b1a0-0390d92467e0",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "10' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 10' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x70, hip, 30x70 hip, 30x70 navi, 30x70 navi-lite, 30 x 70 navi lite"
+  },
+  {
+    "productId": 17,
+    "product": "60 x 120 Twin Peak",
+    "price": 4680,
+    "size": 7200,
+    "stockQuantity": 1,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/60x120Twin.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F60WideCenturySchematic.png?alt=media&token=f97d37e1-2c90-4b11-ad76-2189d2781535",
+    "parts": [
+      {
+        "quantity": "36",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "72",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "56",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Stake Plates",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Center Pole Wheels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "60' x 30' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "60' x 30' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "34",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "60x120, century, 60 x 120, 60x120 century, 60 x 120 century, Century, twin peak, 60x120 twin peak"
+  },
+  {
+    "productId": 22,
+    "product": "30 x 45 Navi-Lite (Hip)",
+    "price": 975,
+    "size": 1350,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x45_hip.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "15' Crossbar",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "30' x 15' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x45, hip, 30x45 hip, 30x45 navi, 30x45 navi-lite, 30 x 45 navi lite"
+  },
+  {
+    "productId": 44,
+    "product": "40 x 120 Navi-Trac (Hip)",
+    "price": 4200,
+    "size": 4800,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_6053.jpg?alt=media&token=0b12380c-a517-4b59-b71a-a5c6a203f392",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideHipSchematic.webp?alt=media&token=4fd36c5c-3b1f-435d-85dd-278e624c047e",
+    "parts": [
+      {
+        "quantity": "16",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Upper Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Lower Splice",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Hip Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "20' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "20' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "10' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Corner Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "5",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "40' x 20' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Push bars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Spacers",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint/Chalk",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x120, hip, 40x120 hip, 40x120 navi, 40x120 navi, 40 x 120 navi"
+  },
+  {
+    "productId": 71,
+    "product": "Black Padded Chair",
+    "price": 3.95,
+    "stockQuantity": 600,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Black Padded Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://www.aclassicpartyrental.com/wp-content/uploads/2013/07/ACPR-309.png",
+    "tags": "black chair, padded chair, black padded chair, black folding chair"
+  },
+  {
+    "productId": 174,
+    "product": "Narrow 8' Table",
+    "price": 11,
+    "stockQuantity": 68,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Narrow 8' Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://allbororentals.com/cdn/shop/products/8_X_18_Table-462x392_0509c6ae-be43-42fb-b824-4726843958d8.jpg?v=1709573470",
+    "tags": "8 foot, 8 foot narrow, 8 foot narrow table"
+  },
+  {
+    "productId": 93,
+    "product": "Black Alloy Chair",
+    "price": 1.75,
+    "stockQuantity": 850,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Black Alloy Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://partypartyinc.com/wp-content/uploads/2021/04/blackalloy-scaled.jpg",
+    "tags": "folding chair, black chair, black folding chair, alloy chair, black alloy chair"
+  },
+  {
+    "productId": 98,
+    "product": "Barstool",
+    "price": 7.5,
+    "stockQuantity": 25,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Barstool",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://images.thdstatic.com/productImages/2ed26865-70ec-47df-9083-cb369a54bf2a/svn/black-flash-furniture-bar-stools-etbt350324bk-64_600.jpg",
+    "tags": "barstool, bar stool"
+  },
+  {
+    "productId": 2,
+    "product": "20 x 40 Century",
+    "price": 520,
+    "size": 800,
+    "stockQuantity": 12,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_0914.jpg?alt=media&token=ff289267-3c91-43f3-a1c8-60ef141eeaa2",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F20WideCenturyDiagram.png?alt=media&token=2a4bc43b-f7ac-4b82-b8b1-9b665483aa32",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "7' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "20x40, 20 x 40, century, 20x40 century, 20 x 40 century"
+  },
+  {
+    "productId": 35,
+    "product": "30 x 90 Navi-Lite (Gable)",
+    "price": 1945,
+    "size": 2700,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F30x90Gable.jpg?alt=media&token=be03bde0-40be-4d9a-af17-0c1286ee80c1",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideGableSchematic.png?alt=media&token=e7d33d2c-c932-426d-90ab-147586c33147",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Tall Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Gable End Perim",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "10",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "7",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' Gable End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "22",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "18",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x90, gable, 30x90 gable, 30x90 navi, 30x90 navi-lite, 30 x 90 navi lite, 30 x 90 gable"
+  },
+  {
+    "productId": 26,
+    "product": "30 x 60 Navi-Lite (Hip)",
+    "price": 1300,
+    "size": 1800,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2FIMG_1280.jpg?alt=media&token=edd88a3d-46e5-4ec9-b1a0-0390d92467e0",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "12",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x60, hip, 30x60 hip, 30x60 navi, 30x60 navi-lite, 30 x 60 navi lite"
+  },
+  {
+    "productId": 63,
+    "product": "12 x 24 Stage",
+    "price": 540,
+    "size": 288,
+    "stockQuantity": 6,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F12x24Stage.jpg?alt=media&token=0339c1fa-8f7e-4196-a99c-613ca24b2f89",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x24.png",
+    "parts": [
+      {
+        "quantity": "9",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "12x24 stage, 12x24, stage, Stage"
+  },
+  {
+    "productId": 11,
+    "product": "40 x 80 Century",
+    "price": 2400,
+    "size": 3200,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Pole/Century",
+    "image": "https://firebasestorage.googleapis.com/v0/b/collab-checklist.appspot.com/o/media%2F40x80Cent.jpg?alt=media&token=61c27316-f836-4d0a-b1a2-83da44de6a37",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F40WideCenturySchematic.png?alt=media&token=b0e46727-c7a8-412d-a72f-54e0398f2cf9",
+    "parts": [
+      {
+        "quantity": "24",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "32",
+        "item": "Big Stakes",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Big Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Small Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "22' Center Poles",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "40' x 20' Mid Top",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "Dumbbells",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Pole Horses",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "Hammer/Pounder",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Measuring Tape",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Spray Paint",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "27",
+        "item": "Wood Squares",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "40x80, century, 40 x 80, 40x80 century, 40 x 80 century, Century"
+  },
+  {
+    "productId": 51,
+    "product": "10 x 40 Festival",
+    "price": 405,
+    "size": 400,
+    "stockQuantity": 4,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Festival",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x40.png",
+    "parts": [
+      {
+        "quantity": "10",
+        "item": "Legs (Black)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "13",
+        "item": "Perimeter (White)",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Center Pole",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "'T' Castings",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Mid Tops",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "10x40"
+  },
+  {
+    "productId": 30,
+    "product": "30 x 75 Navi-Lite (Hip)",
+    "price": 1630,
+    "size": 2250,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Tents",
+    "tentType": "Navi Trac",
+    "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x75_hip.jpg",
+    "schematic": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/tent-schematics%2F30WideHipSchematic.png?alt=media&token=218e7d1f-fd82-4294-8364-221491d865e8",
+    "parts": [
+      {
+        "quantity": "14",
+        "item": "8' Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Diag. Corner",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Hip End Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Uprights",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "15' Perimeter",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "15' Crossbars",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "15' Purlins",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Cross Braces",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "30' x 15' End Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "3",
+        "item": "30' x 15' Mid Tops",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "16",
+        "item": "Concrete Blocks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "14",
+        "item": "Navi Ratchets",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "*Jacks",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Tarp",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "1",
+        "item": "*Ladder",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "30x75, hip, 30x75 hip, 30x75 navi, 30x75 navi-lite, 30 x 75 navi lite"
+  },
+  {
+    "productId": 92,
+    "product": "Black Samsonite Chair",
+    "price": 1.6,
+    "stockQuantity": 3500,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Black Samsonite Chair",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://professionalpartyrentals.com/wp-content/uploads/2021/01/Black-folding-chair.png",
+    "tags": "folding chair, black chair, black folding chair, samsonite chair, black samsonite chair"
+  },
+  {
+    "productId": 100,
+    "product": "Queen Anne Throne",
+    "price": 195,
+    "stockQuantity": 2,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Queen Anne Throne",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Chairs",
+    "image": "https://www.virginiaspecialevents.com/itemimages/12618.jpg",
+    "tags": "throne"
+  },
+  {
+    "productId": 101,
+    "product": "Narrow 6' Table",
+    "price": 11,
+    "stockQuantity": 28,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Narrow 6' Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://allbororentals.com/cdn/shop/products/8_X_18_Table-462x392.jpg?v=1709573468",
+    "tags": "6 foot, 6 foot narrow, 6 foot narrow table"
+  },
+  {
+    "productId": 164,
+    "product": "12 x 32 Stage",
+    "price": 720,
+    "size": 384,
+    "stockQuantity": 2,
+    "reviews": [],
+    "category": "Stage",
+    "tentType": "Stage",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mern-ecommerce-f07b1.appspot.com/o/schematics%2F12x32Stage.jpg?alt=media&token=f2ae1d0b-8306-46a9-b59e-e0d40e5656de",
+    "schematic": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x32.png",
+    "parts": [
+      {
+        "quantity": "12",
+        "item": "Stage Panels",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "6",
+        "item": "Z-Legs",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Single Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "8",
+        "item": "Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Dual Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "4",
+        "item": "Quad Locators",
+        "completed": false,
+        "completedBy": null
+      },
+      {
+        "quantity": "2",
+        "item": "Dual-Quad Locators",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "tags": "12x32 stage, 12x32, Stage, stage"
+  },
+  {
+    "productId": 82,
+    "product": "Child's 6' Banquet Table",
+    "price": 9.5,
+    "stockQuantity": 15,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "Child's 6' Banquet Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://www.247-events.com/wp-content/uploads/6-ft-child-table-600x480.jpg",
+    "tags": "6 foot, 6 foot banquet, 6 foot banquet table, child's table"
+  },
+  {
+    "productId": 94,
+    "product": "36\" Round Hightop Table",
+    "price": 12,
+    "stockQuantity": 85,
+    "reviews": [],
+    "parts": [
+      {
+        "quantity": "",
+        "item": "36\" Round Hightop Table",
+        "completed": false,
+        "completedBy": null
+      }
+    ],
+    "category": "Tables",
+    "image": "https://celebrationspartyrentals.us/wp-content/uploads/2018/02/24_inch_hight_table.jpg",
+    "tags": "36 inch, 36 inch round, 36 inch round table, hightop table"
+  }]
